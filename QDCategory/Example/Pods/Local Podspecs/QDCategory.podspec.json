@@ -1,0 +1,22 @@
+{
+  "name": "QDCategory",
+  "version": "0.1.0",
+  "summary": "A short description of QDCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/w735786589/QDCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dage": "qd68888@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/w735786589/QDCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QDCategory/Classes/**/*"
+}

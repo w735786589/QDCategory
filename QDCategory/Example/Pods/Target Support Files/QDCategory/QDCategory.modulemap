@@ -1,0 +1,6 @@
+framework module QDCategory {
+  umbrella header "QDCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

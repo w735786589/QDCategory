@@ -1,0 +1,6 @@
+framework module Pods_QDCategory_Example {
+  umbrella header "Pods-QDCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
